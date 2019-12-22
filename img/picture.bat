@@ -1,0 +1,1 @@
+nconvert -out jpeg -o %%_1.jpg -q 95 -rmeta -rexifthumb -noise uniform 0.1 *.jpg
